@@ -1,0 +1,2 @@
+print "Demo2: A new file created from git cmd."
+print "Commit in cmd and later pull in git hub"
